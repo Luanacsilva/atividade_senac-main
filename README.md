@@ -1,7 +1,7 @@
 # Atividade Senac - Projeto Acadêmico
 
 ## Descrição
-Este projeto foi desenvolvido como parte de uma atividade acadêmica do curso no Senac. Ele implementa funcionalidades relacionadas a [INSIRA AQUI UMA DESCRIÇÃO BREVE DO PROPÓSITO DO PROJETO, EXEMPLO: gerenciamento de tarefas, sistema de login, etc.]. 
+Este projeto foi desenvolvido como parte de uma atividade acadêmica do curso no Senac.
 
 ## Tecnologias Utilizadas
 As tecnologias e ferramentas principais utilizadas no desenvolvimento incluem:
